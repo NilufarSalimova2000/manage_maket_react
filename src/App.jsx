@@ -1,7 +1,9 @@
-import { Header } from "./components/header";
-import { Hero } from "./components/hero";
-import { Manage } from "./components/manage";
-import { Said } from "./components/said";
+import React from "react";
+import { Header } from "./pages/Header/Header";
+import { Hero } from "./pages/Hero/hero";
+import { Manage } from "./pages/Manage/manage";
+import { Said } from "./pages/Said/said";
+
 function App() {
 
   return (
